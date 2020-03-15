@@ -1,4 +1,3 @@
-dict_keys(['layerType', 'id', 'title', 'featureCollection', 'visibility', 'opacity'])
 County_Name,State_Name,Confirmed,New,Death,Fatality_Rate,Last_Update
 King,Washington,328,0,32,9.8%,2020-03-14 12:04 EDT
 Snohomish,Washington,133,0,4,3%,2020-03-14 12:04 EDT

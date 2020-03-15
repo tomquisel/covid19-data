@@ -14,7 +14,6 @@ def json_to_df(data):
     county_dicts = []
     layers = data["operationalLayers"]
     layer = [l for l in layers if "cumulative cases" in l["title"].lower()][0]
-    print(layer.keys())
     counties = layer["featureCollection"]["layers"][0]["featureSet"]["features"]
     for c in counties:
         c_attributes = c["attributes"]
