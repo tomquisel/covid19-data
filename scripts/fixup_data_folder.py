@@ -39,7 +39,7 @@ def clean_folder(folder):
         df["Fatality_Rate"] = df["Death"] / df["Confirmed"]
 
     for date, df in dfs.items():
-        print(df)
+        # print(df)
         yesterday = date - dt.timedelta(days=1)
         if yesterday in dfs:
             fixed_df = make_df_consistent_with_yesterday(df, dfs[yesterday])
@@ -48,7 +48,7 @@ def clean_folder(folder):
             # "New" cases means nothing
             fixed_df["New"] = None
         filename = os.path.join(folder, date.isoformat() + ".csv")
-        fixed_df.to_csv(filename, index=False)
+        fixed_df.to_csv(filename, index=False, float_format="%.7f")
         print("Fixed up", filename)
 
 
