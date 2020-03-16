@@ -48,7 +48,7 @@ def clean_folder(folder):
             # "New" cases means nothing
             fixed_df["New"] = None
         filename = os.path.join(folder, date.isoformat() + ".csv")
-        fixed_df.to_csv(filename, index=False)
+        fixed_df.to_csv(filename, index=False, float_format="%.7f")
         print("Fixed up", filename)
 
 
