@@ -3,6 +3,7 @@ This folder contains daily US county COVID-19 data pulled from [CSBS.org's inter
 ### Fields
 
 | Name | Description |
+|-|-|
 | County_Name | Name of the county |
 | State_Name | State that the county is in |
 | Confirmed | Number of confirmed COVID-19 cases |
