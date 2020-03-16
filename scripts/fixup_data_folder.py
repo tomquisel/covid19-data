@@ -27,14 +27,16 @@ def clean_folder(folder):
     for date, df in dfs.items():
         # There shouldn't be any duplicates, this is just a safeguard
         df.drop_duplicates(["County_Name", "State_Name"], inplace=True)
-        # Deaths are sometimes reported with a string like "2+1". Simplify to a
-        # single number (3)
+        # Deaths are sometimes reported with a string like "2+1".
+        # Simplify to a single number (3)
         df["Death"] = (
             df["Death"]
             .astype(str)
             .str.split("+")
             .map(lambda l: sum([int(s) for s in l]))
         )
+        # Recalculate fatality rate as a proper rate [0-1]
+        df["Fatality_Rate"] = df["Death"] / df["Confirmed"]
 
     for date, df in dfs.items():
         print(df)
@@ -63,7 +65,7 @@ def read_dfs_in_folder(folder):
 
 
 def make_df_consistent_with_yesterday(df, df_y):
-    """This fixes the New column so that yesterday + New = today"""
+    """This fixes the New column so that today = yesterday + New"""
     df = df.copy()
     df_y = df_y.copy()
     df.set_index(["County_Name", "State_Name"], inplace=True, verify_integrity=True)
