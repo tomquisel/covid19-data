@@ -1,354 +1,353 @@
 County_Name,State_Name,Confirmed,New,Death,Fatality_Rate,Last_Update
-King,Washington,328,0,32,9.8%,2020-03-14 12:04 EDT
-Snohomish,Washington,133,0,4,3%,2020-03-14 12:04 EDT
-Unassigned,Washington,65,0,0,0%,2020-03-14 12:04 EDT
-Pierce,Washington,19,0,0,0%,2020-03-14 12:04 EDT
-Clark,Washington,3,0,0,0%,2020-03-14 12:04 EDT
-Kittitas,Washington,3,0,0,0%,2020-03-14 12:04 EDT
-Kitsap,Washington,3,0,0,0%,2020-03-14 12:04 EDT
-Skagit,Washington,3,0,0,0%,2020-03-14 12:04 EDT
-Island,Washington,3,0,0,0%,2020-03-14 12:04 EDT
-Whatcom,Washington,2,0,0,0%,2020-03-14 12:04 EDT
-Yakima,Washington,2,0,0,0%,2020-03-14 12:04 EDT
-Grant,Washington,1,0,1,100%,2020-03-14 12:04 EDT
-Jefferson,Washington,1,0,0,0%,2020-03-14 12:04 EDT
-Thurston,Washington,1,0,0,0%,2020-03-14 12:04 EDT
-Grays Harbor,Washington,1,0,0,0%,2020-03-14 12:04 EDT
-Columbia,Washington,1,0,0,0%,2020-03-14 12:04 EDT
-Westchester,New York,158,0,0,0%,2020-03-14 12:04 EDT
-New York,New York,154,0,1,0.6%,2020-03-14 12:04 EDT
-Unassigned,New York,100,100,0,0%,2020-03-14 12:04 EDT
-Nassau,New York,51,0,0,0%,2020-03-14 12:04 EDT
-Suffolk,New York,28,0,0,0%,2020-03-14 12:04 EDT
-Rockland,New York,9,0,0,0%,2020-03-14 12:04 EDT
-Ulster,New York,5,0,0,0%,2020-03-14 12:04 EDT
-Albany,New York,4,0,0,0%,2020-03-14 12:04 EDT
-Saratoga,New York,3,0,0,0%,2020-03-14 12:04 EDT
-Orange,New York,3,0,0,0%,2020-03-14 12:04 EDT
-Dutchess,New York,3,0,0,0%,2020-03-14 12:04 EDT
-Monroe,New York,2,0,0,0%,2020-03-14 12:04 EDT
-Delaware,New York,1,0,0,0%,2020-03-14 12:04 EDT
-Herkimer,New York,1,0,0,0%,2020-03-14 12:04 EDT
-Schenectady,New York,1,0,0,0%,2020-03-14 12:04 EDT
-Broome,New York,1,0,0,0%,2020-03-14 12:04 EDT
-Santa Clara,California,79,0,2,2.5%,2020-03-14 12:04 EDT
-Los Angeles,California,40,0,1,2.5%,2020-03-14 12:04 EDT
-San Mateo,California,26,6,0,0%,2020-03-14 12:04 EDT
-Contra Costa,California,25,0,0,0%,2020-03-14 12:04 EDT
-San Francisco,California,23,0,0,0%,2020-03-14 12:04 EDT
-Sacramento,California,17,0,1,5.9%,2020-03-14 12:04 EDT
-Orange,California,13,0,0,0%,2020-03-14 12:04 EDT
-Riverside,California,12,0,0,0%,2020-03-14 12:04 EDT
-Alameda,California,11,0,0,0%,2020-03-14 12:04 EDT
-San Diego,California,8,0,0,0%,2020-03-14 12:04 EDT
-San Joaquin,California,8,0,0,0%,2020-03-14 12:04 EDT
-Santa Cruz,California,7,0,0,0%,2020-03-14 12:04 EDT
-Solano,California,6,0,0,0%,2020-03-14 12:04 EDT
-Ventura,California,5,0,0,0%,2020-03-14 12:04 EDT
-Placer,California,4,0,1,25%,2020-03-14 12:04 EDT
-San Benito,California,3,0,0,0%,2020-03-14 12:04 EDT
-Marin,California,3,0,0,0%,2020-03-14 12:04 EDT
-Yolo,California,2,0,0,0%,2020-03-14 12:04 EDT
-Calaveras,California,2,0,0,0%,2020-03-14 12:04 EDT
-Stanislaus,California,2,0,0,0%,2020-03-14 12:04 EDT
-Tulare,California,2,0,0,0%,2020-03-14 12:04 EDT
-Imperial,California,2,0,0,0%,2020-03-14 12:04 EDT
-Humboldt,California,1,0,0,0%,2020-03-14 12:04 EDT
-Sonoma,California,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,California,1,0,0,0%,2020-03-14 12:04 EDT
-Madera,California,1,0,0,0%,2020-03-14 12:04 EDT
-Fresno,California,1,0,0,0%,2020-03-14 12:04 EDT
-Shasta,California,1,0,0,0%,2020-03-14 12:04 EDT
-Middlesex,Massachusetts,60,0,0,0%,2020-03-14 12:04 EDT
-Suffolk,Massachusetts,26,0,0,0%,2020-03-14 12:04 EDT
-Norfolk,Massachusetts,24,0,0,0%,2020-03-14 12:04 EDT
-Berkshire,Massachusetts,9,0,0,0%,2020-03-14 12:04 EDT
-Worcester,Massachusetts,2,0,0,0%,2020-03-14 12:04 EDT
-Essex,Massachusetts,2,0,0,0%,2020-03-14 12:04 EDT
-Eagle,Colorado,16,0,0,0%,2020-03-14 12:04 EDT
-Denver,Colorado,15,0,0,0%,2020-03-14 12:04 EDT
-Pitkin,Colorado,10,0,0,0%,2020-03-14 12:04 EDT
-Arapahoe,Colorado,7,0,0,0%,2020-03-14 12:04 EDT
-Jefferson,Colorado,7,0,0,0%,2020-03-14 12:04 EDT
-Douglas,Colorado,4,0,0,0%,2020-03-14 12:04 EDT
-Gunnison,Colorado,4,0,0,0%,2020-03-14 12:04 EDT
-Adams,Colorado,3,0,0,0%,2020-03-14 12:04 EDT
-Summit,Colorado,2,0,0,0%,2020-03-14 12:04 EDT
-El Paso,Colorado,2,0,1,50%,2020-03-14 12:04 EDT
-Unassigned,Colorado,2,0,0,0%,2020-03-14 12:04 EDT
-Weld,Colorado,2,0,0,0%,2020-03-14 12:04 EDT
-Larimer,Colorado,1,0,0,0%,2020-03-14 12:04 EDT
-Pueblo,Colorado,1,0,0,0%,2020-03-14 12:04 EDT
-Routt,Colorado,1,0,0,0%,2020-03-14 12:04 EDT
-Broward,Florida,19,8,0,0%,2020-03-14 12:04 EDT
-Miami-Dade,Florida,8,6,0,0%,2020-03-14 12:04 EDT
-Unassigned,Florida,5,0,0,0%,2020-03-14 12:04 EDT
-Palm Beach,Florida,5,3,0,0%,2020-03-14 12:04 EDT
-Manatee,Florida,4,2,0,0%,2020-03-14 12:04 EDT
-Lee,Florida,4,0,1,25%,2020-03-14 12:04 EDT
-Volusia,Florida,4,1,0,0%,2020-03-14 12:04 EDT
-Hillsborough,Florida,3,0,0,0%,2020-03-14 12:04 EDT
-Alachua,Florida,3,1,0,0%,2020-03-14 12:04 EDT
-Collier,Florida,3,0,0,0%,2020-03-14 12:04 EDT
-Pinellas,Florida,2,0,0,0%,2020-03-14 12:04 EDT
-Sarasota,Florida,2,0,0,0%,2020-03-14 12:04 EDT
-Orange,Florida,2,1,1,50%,2020-03-14 12:04 EDT
-Santa Rosa,Florida,1,0,1,100%,2020-03-14 12:04 EDT
-Charlotte,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Okaloosa,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Nassau,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Pasco,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-St. Johns,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Seminole,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Duval,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Clay,Florida,1,0,0,0%,2020-03-14 12:04 EDT
-Osceola,Florida,1,1,0,0%,2020-03-14 12:04 EDT
-Unassigned,Georgia,22,22,0,0%,2020-03-14 12:04 EDT
-Fulton,Georgia,8,0,0,0%,2020-03-14 12:04 EDT
-Cobb,Georgia,8,0,1,12.5%,2020-03-14 12:04 EDT
-DeKalb,Georgia,5,0,0,0%,2020-03-14 12:04 EDT
-Bartow,Georgia,4,0,0,0%,2020-03-14 12:04 EDT
-Floyd,Georgia,3,0,0,0%,2020-03-14 12:04 EDT
-Fayette,Georgia,3,0,0,0%,2020-03-14 12:04 EDT
-Gwinnett,Georgia,2,0,0,0%,2020-03-14 12:04 EDT
-Gordon,Georgia,2,0,0,0%,2020-03-14 12:04 EDT
-Polk,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Cherokee,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Charlton,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Lowndes,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Lee,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Camden,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Coweta,Georgia,1,0,0,0%,2020-03-14 12:04 EDT
-Orleans,Louisiana,26,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Louisiana,15,15,0,0%,2020-03-14 12:04 EDT
-Jefferson parish,Louisiana,3,0,0,0%,2020-03-14 12:04 EDT
-St. Tammany,Louisiana,2,0,0,0%,2020-03-14 12:04 EDT
-Caddo,Louisiana,1,0,0,0%,2020-03-14 12:04 EDT
-Lafourche Parish,Louisiana,1,0,0,0%,2020-03-14 12:04 EDT
-St. Bernard Parish,Louisiana,1,0,0,0%,2020-03-14 12:04 EDT
-St. Charles Parish,Louisiana,1,0,0,0%,2020-03-14 12:04 EDT
-Terrebonne Parish,Louisiana,1,0,0,0%,2020-03-14 12:04 EDT
-Harris,Texas,10,0,0,0%,2020-03-14 12:04 EDT
-Fort Bend,Texas,9,0,0,0%,2020-03-14 12:04 EDT
-Dallas,Texas,9,0,0,0%,2020-03-14 12:04 EDT
-Collin,Texas,6,1,0,0%,2020-03-14 12:04 EDT
-Tarrant,Texas,3,0,0,0%,2020-03-14 12:04 EDT
-Montgomery,Texas,3,0,0,0%,2020-03-14 12:04 EDT
-Travis,Texas,3,0,0,0%,2020-03-14 12:04 EDT
-Smith,Texas,3,0,0,0%,2020-03-14 12:04 EDT
-Gregg,Texas,1,0,0,0%,2020-03-14 12:04 EDT
-Bexar,Texas,1,0,0,0%,2020-03-14 12:04 EDT
-El Paso,Texas,1,0,0,0%,2020-03-14 12:04 EDT
-Bell,Texas,1,0,0,0%,2020-03-14 12:04 EDT
-Bergen,New Jersey,15,0,1,6.7%,2020-03-14 12:04 EDT
-Monmouth,New Jersey,8,0,0,0%,2020-03-14 12:04 EDT
-Middlesex,New Jersey,6,0,0,0%,2020-03-14 12:04 EDT
-Hudson,New Jersey,4,0,0,0%,2020-03-14 12:04 EDT
-Burlington,New Jersey,3,0,0,0%,2020-03-14 12:04 EDT
-Essex,New Jersey,3,0,0,0%,2020-03-14 12:04 EDT
-Morris,New Jersey,3,0,0,0%,2020-03-14 12:04 EDT
-Camden,New Jersey,2,0,0,0%,2020-03-14 12:04 EDT
-Passaic,New Jersey,2,0,0,0%,2020-03-14 12:04 EDT
-Union,New Jersey,1,0,0,0%,2020-03-14 12:04 EDT
-Somerset,New Jersey,1,0,0,0%,2020-03-14 12:04 EDT
-Ocean,New Jersey,1,0,0,0%,2020-03-14 12:04 EDT
-Mercer,New Jersey,1,0,0,0%,2020-03-14 12:04 EDT
-Cook,Illinois,40,0,0,0%,2020-03-14 12:04 EDT
-Kane,Illinois,2,0,0,0%,2020-03-14 12:04 EDT
-McHenry,Illinois,2,0,0,0%,2020-03-14 12:04 EDT
-Lake,Illinois,2,0,0,0%,2020-03-14 12:04 EDT
-Montgomery,Pennsylvania,18,0,0,0%,2020-03-14 12:04 EDT
-Delaware,Pennsylvania,6,0,0,0%,2020-03-14 12:04 EDT
-Monroe,Pennsylvania,3,0,0,0%,2020-03-14 12:04 EDT
-Philadelphia,Pennsylvania,3,0,0,0%,2020-03-14 12:04 EDT
-Bucks,Pennsylvania,3,0,0,0%,2020-03-14 12:04 EDT
-Cumberland,Pennsylvania,3,0,0,0%,2020-03-14 12:04 EDT
-Wayne,Pennsylvania,1,0,0,0%,2020-03-14 12:04 EDT
-Northampton,Pennsylvania,1,0,0,0%,2020-03-14 12:04 EDT
-Pike,Pennsylvania,1,0,0,0%,2020-03-14 12:04 EDT
-Chester,Pennsylvania,1,0,0,0%,2020-03-14 12:04 EDT
-Washington,Pennsylvania,1,0,0,0%,2020-03-14 12:04 EDT
-Washington,Oregon,10,0,0,0%,2020-03-14 12:04 EDT
-Linn,Oregon,8,0,0,0%,2020-03-14 12:04 EDT
-Deschutes,Oregon,3,0,0,0%,2020-03-14 12:04 EDT
-Jackson,Oregon,2,0,0,0%,2020-03-14 12:04 EDT
-Umatilla,Oregon,2,0,0,0%,2020-03-14 12:04 EDT
-Marion,Oregon,2,0,0,0%,2020-03-14 12:04 EDT
-Klamath,Oregon,1,0,0,0%,2020-03-14 12:04 EDT
-Douglas,Oregon,1,0,0,0%,2020-03-14 12:04 EDT
-Multnomah,Oregon,1,0,0,0%,2020-03-14 12:04 EDT
-Polk,Oregon,1,0,0,0%,2020-03-14 12:04 EDT
-Clackamas,Oregon,1,0,0,0%,2020-03-14 12:04 EDT
-James City,Virginia,7,0,0,0%,2020-03-14 12:04 EDT
-Fairfax,Virginia,6,0,0,0%,2020-03-14 12:04 EDT
-Arlington,Virginia,5,0,0,0%,2020-03-14 12:04 EDT
-Loudoun,Virginia,3,0,0,0%,2020-03-14 12:04 EDT
-Virginia Beach City,Virginia,2,0,0,0%,2020-03-14 12:04 EDT
-Prince William,Virginia,2,0,0,0%,2020-03-14 12:04 EDT
-Spotsylvania,Virginia,1,0,0,0%,2020-03-14 12:04 EDT
-Hanover,Virginia,1,0,0,0%,2020-03-14 12:04 EDT
-Prince Edward,Virginia,1,0,0,0%,2020-03-14 12:04 EDT
-Alexandria City,Virginia,1,0,0,0%,2020-03-14 12:04 EDT
-Harrisonburg,Virginia,1,0,0,0%,2020-03-14 12:04 EDT
-Chesterfield,Virginia,1,1,0,0%,2020-03-14 12:04 EDT
-Davidson,Tennessee,13,3,0,0%,2020-03-14 12:04 EDT
-Williamson,Tennessee,9,0,0,0%,2020-03-14 12:04 EDT
-Shelby,Tennessee,2,0,0,0%,2020-03-14 12:04 EDT
-Sullivan,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Knox,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Hamilton,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Jefferson,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Rutherford,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Campbell,Tennessee,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Maryland,9,9,0,0%,2020-03-14 12:04 EDT
-Prince George's,Maryland,7,0,0,0%,2020-03-14 12:04 EDT
-Montgomery,Maryland,6,0,0,0%,2020-03-14 12:04 EDT
-Baltimore,Maryland,2,0,0,0%,2020-03-14 12:04 EDT
-Harford,Maryland,1,0,0,0%,2020-03-14 12:04 EDT
-Charles,Maryland,1,0,0,0%,2020-03-14 12:04 EDT
-Anne Arundel,Maryland,1,0,0,0%,2020-03-14 12:04 EDT
-Carroll,Maryland,1,0,0,0%,2020-03-14 12:04 EDT
-Oakland,Michigan,6,0,0,0%,2020-03-14 12:04 EDT
-Wayne,Michigan,6,0,0,0%,2020-03-14 12:04 EDT
-Kent,Michigan,3,0,0,0%,2020-03-14 12:04 EDT
-Washtenaw,Michigan,3,0,0,0%,2020-03-14 12:04 EDT
-St. Clair,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Ingham,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Montcalm,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Bay,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Charlevoix,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Macomb,Michigan,1,0,0,0%,2020-03-14 12:04 EDT
-Wake,North Carolina,9,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,North Carolina,3,3,0,0%,2020-03-14 12:04 EDT
-Forsyth,North Carolina,2,0,0,0%,2020-03-14 12:04 EDT
-Chatham,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Durham,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Johnston,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Mecklenburg,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Cabarrus,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Onslow,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Wayne,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Harnett,North Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Brunswick,North Carolina,1,1,0,0%,2020-03-14 12:04 EDT
-Clark,Nevada,16,0,0,0%,2020-03-14 12:04 EDT
-Washoe,Nevada,3,0,0,0%,2020-03-14 12:04 EDT
-Ormsby,Nevada,1,0,0,0%,2020-03-14 12:04 EDT
-Fond du Lac,Wisconsin,6,0,0,0%,2020-03-14 12:04 EDT
-Dane,Wisconsin,5,0,0,0%,2020-03-14 12:04 EDT
-Sheboygan,Wisconsin,3,0,0,0%,2020-03-14 12:04 EDT
-Milwaukee,Wisconsin,2,0,0,0%,2020-03-14 12:04 EDT
-Pierce,Wisconsin,1,0,0,0%,2020-03-14 12:04 EDT
-Waukesha,Wisconsin,1,0,0,0%,2020-03-14 12:04 EDT
-Racine,Wisconsin,1,0,0,0%,2020-03-14 12:04 EDT
-Johnson,Iowa,14,0,0,0%,2020-03-14 12:04 EDT
-Pottawattamie,Iowa,1,0,0,0%,2020-03-14 12:04 EDT
-Carroll,Iowa,1,0,0,0%,2020-03-14 12:04 EDT
-Harrison,Iowa,1,0,0,0%,2020-03-14 12:04 EDT
-Marion,Indiana,3,1,0,0%,2020-03-14 12:04 EDT
-Johnson,Indiana,3,0,0,0%,2020-03-14 12:04 EDT
-Hendricks,Indiana,2,0,0,0%,2020-03-14 12:04 EDT
-Noble,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-Adams,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-Boone,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-Howard,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-St. Joseph,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-Hancock,Indiana,1,0,0,0%,2020-03-14 12:04 EDT
-Wells,Indiana,1,1,0,0%,2020-03-14 12:04 EDT
-LaPorte,Indiana,1,1,0,0%,2020-03-14 12:04 EDT
-Unassigned,Rhode Island,9,0,0,0%,2020-03-14 12:04 EDT
-Providence,Rhode Island,3,0,0,0%,2020-03-14 12:04 EDT
-RI,Rhode Island,2,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Minnesota,4,0,0,0%,2020-03-14 12:04 EDT
-Ramsey,Minnesota,3,0,0,0%,2020-03-14 12:04 EDT
-Carver,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Anoka,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Olmsted,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Dakota,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Stearns,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Hennepin,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Wright,Minnesota,1,0,0,0%,2020-03-14 12:04 EDT
-Harrison,Kentucky,5,0,0,0%,2020-03-14 12:04 EDT
-Fayette,Kentucky,3,0,0,0%,2020-03-14 12:04 EDT
-Jefferson,Kentucky,2,0,0,0%,2020-03-14 12:04 EDT
-Montgomery,Kentucky,2,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Kentucky,2,0,0,0%,2020-03-14 12:04 EDT
-Douglas,Nebraska,12,0,0,0%,2020-03-14 12:04 EDT
-Knox,Nebraska,1,0,0,0%,2020-03-14 12:04 EDT
-Cass,Nebraska,1,0,0,0%,2020-03-14 12:04 EDT
-Cuyahoga,Ohio,6,0,0,0%,2020-03-14 12:04 EDT
-Stark,Ohio,2,0,0,0%,2020-03-14 12:04 EDT
-Belmont,Ohio,2,0,0,0%,2020-03-14 12:04 EDT
-Trumbull,Ohio,1,0,0,0%,2020-03-14 12:04 EDT
-Bulter,Ohio,1,0,0,0%,2020-03-14 12:04 EDT
-Summit,Ohio,1,0,0,0%,2020-03-14 12:04 EDT
-Franklin,Ohio,1,1,0,0%,2020-03-14 12:04 EDT
-Kershaw,South Carolina,5,0,0,0%,2020-03-14 12:04 EDT
-Camden,South Carolina,4,0,0,0%,2020-03-14 12:04 EDT
-Charleston,South Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Spartanburg,South Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Lancaster,South Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Lancaster,South Carolina,1,0,0,0%,2020-03-14 12:04 EDT
-Fairfield,Connecticut,8,0,0,0%,2020-03-14 12:04 EDT
-Litchfield,Connecticut,3,0,0,0%,2020-03-14 12:04 EDT
-Hartford,Connecticut,1,0,0,0%,2020-03-14 12:04 EDT
-Pinal,Arizona,5,0,0,0%,2020-03-14 12:04 EDT
-Maricopa,Arizona,3,0,0,0%,2020-03-14 12:04 EDT
-Pima,Arizona,2,0,0,0%,2020-03-14 12:04 EDT
-Graham,Arizona,1,0,0,0%,2020-03-14 12:04 EDT
-Washington,District of Columbia,10,0,0,0%,2020-03-14 12:04 EDT
-Bernalillo,New Mexico,5,0,0,0%,2020-03-14 12:04 EDT
-Santa Fe,New Mexico,3,0,0,0%,2020-03-14 12:04 EDT
-Socorro,New Mexico,2,0,0,0%,2020-03-14 12:04 EDT
-Summit,Utah,4,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Utah,2,0,0,0%,2020-03-14 12:04 EDT
-Davis,Utah,1,0,0,0%,2020-03-14 12:04 EDT
-Weber,Utah,1,0,0,0%,2020-03-14 12:04 EDT
-Salt Lake,Utah,1,0,0,0%,2020-03-14 12:04 EDT
-Minnehaha,South Dakota,3,0,0,0%,2020-03-14 12:04 EDT
-Pennington,South Dakota,1,0,1,100%,2020-03-14 12:04 EDT
-Beadle,South Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-Charles Mix,South Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-Davidson,South Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-Bon Homme,South Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-McCook,South Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Arkansas,9,0,0,0%,2020-03-14 12:04 EDT
-Rockingham,New Hampshire,4,0,0,0%,2020-03-14 12:04 EDT
-Grafton,New Hampshire,3,0,0,0%,2020-03-14 12:04 EDT
-Johnson,Kansas,4,0,0,0%,2020-03-14 12:04 EDT
-Wyandotte,Kansas,1,0,1,100%,2020-03-14 12:04 EDT
-Sedgwick,Kansas,1,0,0,0%,2020-03-14 12:04 EDT
-Forrest,Mississippi,3,0,0,0%,2020-03-14 12:04 EDT
-Leflore,Mississippi,1,0,0,0%,2020-03-14 12:04 EDT
-Pearl River,Mississippi,1,0,0,0%,2020-03-14 12:04 EDT
-Copiah,Mississippi,1,0,0,0%,2020-03-14 12:04 EDT
-Montgomery,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Jefferson,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Elmore,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Tuscaloosa,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Limestone,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Alabama,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Montana,1,0,0,0%,2020-03-14 12:04 EDT
-Gallatin,Montana,1,0,0,0%,2020-03-14 12:04 EDT
-Yellowstone,Montana,1,0,0,0%,2020-03-14 12:04 EDT
-Silver Bow,Montana,1,0,0,0%,2020-03-14 12:04 EDT
-Lewis and Clark,Montana,1,0,0,0%,2020-03-14 12:04 EDT
-Tulsa,Oklahoma,2,0,0,0%,2020-03-14 12:04 EDT
-Jackson,Oklahoma,1,0,0,0%,2020-03-14 12:04 EDT
-Oklahoma,Oklahoma,1,0,0,0%,2020-03-14 12:04 EDT
-St. Louis,Missouri,2,0,0,0%,2020-03-14 12:04 EDT
-Greene,Missouri,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Missouri,1,0,0,0%,2020-03-14 12:04 EDT
-New Castle,Delaware,4,0,0,0%,2020-03-14 12:04 EDT
-Honolulu,Hawaii,2,0,0,0%,2020-03-14 12:04 EDT
-Kauai County,Hawaii,1,0,0,0%,2020-03-14 12:04 EDT
-Unassigned,Maine,2,0,0,0%,2020-03-14 12:04 EDT
-Androscoggin,Maine,1,0,0,0%,2020-03-14 12:04 EDT
-Puerto Rico,Puerto Rico,3,0,0,0%,2020-03-14 12:04 EDT
-Bennington,Vermont,1,0,0,0%,2020-03-14 12:04 EDT
-Chittenden,Vermont,1,0,0,0%,2020-03-14 12:04 EDT
-Sheridan County,Wyoming,1,0,0,0%,2020-03-14 12:04 EDT
-Fremont,Wyoming,1,0,0,0%,2020-03-14 12:04 EDT
-Ward,North Dakota,1,0,0,0%,2020-03-14 12:04 EDT
-Anchorage,Alaska,1,0,0,0%,2020-03-14 12:04 EDT
-Ada,Idaho,1,0,0,0%,2020-03-14 12:04 EDT
+King,Washington,328,,32,0.0975609756097561,2020-03-14 12:04 EDT
+Snohomish,Washington,133,,4,0.03007518796992481,2020-03-14 12:04 EDT
+Unassigned,Washington,65,,0,0.0,2020-03-14 12:04 EDT
+Pierce,Washington,19,,0,0.0,2020-03-14 12:04 EDT
+Clark,Washington,3,,0,0.0,2020-03-14 12:04 EDT
+Kittitas,Washington,3,,0,0.0,2020-03-14 12:04 EDT
+Kitsap,Washington,3,,0,0.0,2020-03-14 12:04 EDT
+Skagit,Washington,3,,0,0.0,2020-03-14 12:04 EDT
+Island,Washington,3,,0,0.0,2020-03-14 12:04 EDT
+Whatcom,Washington,2,,0,0.0,2020-03-14 12:04 EDT
+Yakima,Washington,2,,0,0.0,2020-03-14 12:04 EDT
+Grant,Washington,1,,1,1.0,2020-03-14 12:04 EDT
+Jefferson,Washington,1,,0,0.0,2020-03-14 12:04 EDT
+Thurston,Washington,1,,0,0.0,2020-03-14 12:04 EDT
+Grays Harbor,Washington,1,,0,0.0,2020-03-14 12:04 EDT
+Columbia,Washington,1,,0,0.0,2020-03-14 12:04 EDT
+Westchester,New York,158,,0,0.0,2020-03-14 12:04 EDT
+New York,New York,154,,1,0.006493506493506494,2020-03-14 12:04 EDT
+Unassigned,New York,100,,0,0.0,2020-03-14 12:04 EDT
+Nassau,New York,51,,0,0.0,2020-03-14 12:04 EDT
+Suffolk,New York,28,,0,0.0,2020-03-14 12:04 EDT
+Rockland,New York,9,,0,0.0,2020-03-14 12:04 EDT
+Ulster,New York,5,,0,0.0,2020-03-14 12:04 EDT
+Albany,New York,4,,0,0.0,2020-03-14 12:04 EDT
+Saratoga,New York,3,,0,0.0,2020-03-14 12:04 EDT
+Orange,New York,3,,0,0.0,2020-03-14 12:04 EDT
+Dutchess,New York,3,,0,0.0,2020-03-14 12:04 EDT
+Monroe,New York,2,,0,0.0,2020-03-14 12:04 EDT
+Delaware,New York,1,,0,0.0,2020-03-14 12:04 EDT
+Herkimer,New York,1,,0,0.0,2020-03-14 12:04 EDT
+Schenectady,New York,1,,0,0.0,2020-03-14 12:04 EDT
+Broome,New York,1,,0,0.0,2020-03-14 12:04 EDT
+Santa Clara,California,79,,2,0.02531645569620253,2020-03-14 12:04 EDT
+Los Angeles,California,40,,1,0.025,2020-03-14 12:04 EDT
+San Mateo,California,26,,0,0.0,2020-03-14 12:04 EDT
+Contra Costa,California,25,,0,0.0,2020-03-14 12:04 EDT
+San Francisco,California,23,,0,0.0,2020-03-14 12:04 EDT
+Sacramento,California,17,,1,0.058823529411764705,2020-03-14 12:04 EDT
+Orange,California,13,,0,0.0,2020-03-14 12:04 EDT
+Riverside,California,12,,0,0.0,2020-03-14 12:04 EDT
+Alameda,California,11,,0,0.0,2020-03-14 12:04 EDT
+San Diego,California,8,,0,0.0,2020-03-14 12:04 EDT
+San Joaquin,California,8,,0,0.0,2020-03-14 12:04 EDT
+Santa Cruz,California,7,,0,0.0,2020-03-14 12:04 EDT
+Solano,California,6,,0,0.0,2020-03-14 12:04 EDT
+Ventura,California,5,,0,0.0,2020-03-14 12:04 EDT
+Placer,California,4,,1,0.25,2020-03-14 12:04 EDT
+San Benito,California,3,,0,0.0,2020-03-14 12:04 EDT
+Marin,California,3,,0,0.0,2020-03-14 12:04 EDT
+Yolo,California,2,,0,0.0,2020-03-14 12:04 EDT
+Calaveras,California,2,,0,0.0,2020-03-14 12:04 EDT
+Stanislaus,California,2,,0,0.0,2020-03-14 12:04 EDT
+Tulare,California,2,,0,0.0,2020-03-14 12:04 EDT
+Imperial,California,2,,0,0.0,2020-03-14 12:04 EDT
+Humboldt,California,1,,0,0.0,2020-03-14 12:04 EDT
+Sonoma,California,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,California,1,,0,0.0,2020-03-14 12:04 EDT
+Madera,California,1,,0,0.0,2020-03-14 12:04 EDT
+Fresno,California,1,,0,0.0,2020-03-14 12:04 EDT
+Shasta,California,1,,0,0.0,2020-03-14 12:04 EDT
+Middlesex,Massachusetts,60,,0,0.0,2020-03-14 12:04 EDT
+Suffolk,Massachusetts,26,,0,0.0,2020-03-14 12:04 EDT
+Norfolk,Massachusetts,24,,0,0.0,2020-03-14 12:04 EDT
+Berkshire,Massachusetts,9,,0,0.0,2020-03-14 12:04 EDT
+Worcester,Massachusetts,2,,0,0.0,2020-03-14 12:04 EDT
+Essex,Massachusetts,2,,0,0.0,2020-03-14 12:04 EDT
+Eagle,Colorado,16,,0,0.0,2020-03-14 12:04 EDT
+Denver,Colorado,15,,0,0.0,2020-03-14 12:04 EDT
+Pitkin,Colorado,10,,0,0.0,2020-03-14 12:04 EDT
+Arapahoe,Colorado,7,,0,0.0,2020-03-14 12:04 EDT
+Jefferson,Colorado,7,,0,0.0,2020-03-14 12:04 EDT
+Douglas,Colorado,4,,0,0.0,2020-03-14 12:04 EDT
+Gunnison,Colorado,4,,0,0.0,2020-03-14 12:04 EDT
+Adams,Colorado,3,,0,0.0,2020-03-14 12:04 EDT
+Summit,Colorado,2,,0,0.0,2020-03-14 12:04 EDT
+El Paso,Colorado,2,,1,0.5,2020-03-14 12:04 EDT
+Unassigned,Colorado,2,,0,0.0,2020-03-14 12:04 EDT
+Weld,Colorado,2,,0,0.0,2020-03-14 12:04 EDT
+Larimer,Colorado,1,,0,0.0,2020-03-14 12:04 EDT
+Pueblo,Colorado,1,,0,0.0,2020-03-14 12:04 EDT
+Routt,Colorado,1,,0,0.0,2020-03-14 12:04 EDT
+Broward,Florida,19,,0,0.0,2020-03-14 12:04 EDT
+Miami-Dade,Florida,8,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Florida,5,,0,0.0,2020-03-14 12:04 EDT
+Palm Beach,Florida,5,,0,0.0,2020-03-14 12:04 EDT
+Manatee,Florida,4,,0,0.0,2020-03-14 12:04 EDT
+Lee,Florida,4,,1,0.25,2020-03-14 12:04 EDT
+Volusia,Florida,4,,0,0.0,2020-03-14 12:04 EDT
+Hillsborough,Florida,3,,0,0.0,2020-03-14 12:04 EDT
+Alachua,Florida,3,,0,0.0,2020-03-14 12:04 EDT
+Collier,Florida,3,,0,0.0,2020-03-14 12:04 EDT
+Pinellas,Florida,2,,0,0.0,2020-03-14 12:04 EDT
+Sarasota,Florida,2,,0,0.0,2020-03-14 12:04 EDT
+Orange,Florida,2,,1,0.5,2020-03-14 12:04 EDT
+Santa Rosa,Florida,1,,1,1.0,2020-03-14 12:04 EDT
+Charlotte,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Okaloosa,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Nassau,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Pasco,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+St. Johns,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Seminole,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Duval,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Clay,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Osceola,Florida,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Georgia,22,,0,0.0,2020-03-14 12:04 EDT
+Fulton,Georgia,8,,0,0.0,2020-03-14 12:04 EDT
+Cobb,Georgia,8,,1,0.125,2020-03-14 12:04 EDT
+DeKalb,Georgia,5,,0,0.0,2020-03-14 12:04 EDT
+Bartow,Georgia,4,,0,0.0,2020-03-14 12:04 EDT
+Floyd,Georgia,3,,0,0.0,2020-03-14 12:04 EDT
+Fayette,Georgia,3,,0,0.0,2020-03-14 12:04 EDT
+Gwinnett,Georgia,2,,0,0.0,2020-03-14 12:04 EDT
+Gordon,Georgia,2,,0,0.0,2020-03-14 12:04 EDT
+Polk,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Cherokee,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Charlton,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Lowndes,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Lee,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Camden,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Coweta,Georgia,1,,0,0.0,2020-03-14 12:04 EDT
+Orleans,Louisiana,26,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Louisiana,15,,0,0.0,2020-03-14 12:04 EDT
+Jefferson parish,Louisiana,3,,0,0.0,2020-03-14 12:04 EDT
+St. Tammany,Louisiana,2,,0,0.0,2020-03-14 12:04 EDT
+Caddo,Louisiana,1,,0,0.0,2020-03-14 12:04 EDT
+Lafourche Parish,Louisiana,1,,0,0.0,2020-03-14 12:04 EDT
+St. Bernard Parish,Louisiana,1,,0,0.0,2020-03-14 12:04 EDT
+St. Charles Parish,Louisiana,1,,0,0.0,2020-03-14 12:04 EDT
+Terrebonne Parish,Louisiana,1,,0,0.0,2020-03-14 12:04 EDT
+Harris,Texas,10,,0,0.0,2020-03-14 12:04 EDT
+Fort Bend,Texas,9,,0,0.0,2020-03-14 12:04 EDT
+Dallas,Texas,9,,0,0.0,2020-03-14 12:04 EDT
+Collin,Texas,6,,0,0.0,2020-03-14 12:04 EDT
+Tarrant,Texas,3,,0,0.0,2020-03-14 12:04 EDT
+Montgomery,Texas,3,,0,0.0,2020-03-14 12:04 EDT
+Travis,Texas,3,,0,0.0,2020-03-14 12:04 EDT
+Smith,Texas,3,,0,0.0,2020-03-14 12:04 EDT
+Gregg,Texas,1,,0,0.0,2020-03-14 12:04 EDT
+Bexar,Texas,1,,0,0.0,2020-03-14 12:04 EDT
+El Paso,Texas,1,,0,0.0,2020-03-14 12:04 EDT
+Bell,Texas,1,,0,0.0,2020-03-14 12:04 EDT
+Bergen,New Jersey,15,,1,0.06666666666666667,2020-03-14 12:04 EDT
+Monmouth,New Jersey,8,,0,0.0,2020-03-14 12:04 EDT
+Middlesex,New Jersey,6,,0,0.0,2020-03-14 12:04 EDT
+Hudson,New Jersey,4,,0,0.0,2020-03-14 12:04 EDT
+Burlington,New Jersey,3,,0,0.0,2020-03-14 12:04 EDT
+Essex,New Jersey,3,,0,0.0,2020-03-14 12:04 EDT
+Morris,New Jersey,3,,0,0.0,2020-03-14 12:04 EDT
+Camden,New Jersey,2,,0,0.0,2020-03-14 12:04 EDT
+Passaic,New Jersey,2,,0,0.0,2020-03-14 12:04 EDT
+Union,New Jersey,1,,0,0.0,2020-03-14 12:04 EDT
+Somerset,New Jersey,1,,0,0.0,2020-03-14 12:04 EDT
+Ocean,New Jersey,1,,0,0.0,2020-03-14 12:04 EDT
+Mercer,New Jersey,1,,0,0.0,2020-03-14 12:04 EDT
+Cook,Illinois,40,,0,0.0,2020-03-14 12:04 EDT
+Kane,Illinois,2,,0,0.0,2020-03-14 12:04 EDT
+McHenry,Illinois,2,,0,0.0,2020-03-14 12:04 EDT
+Lake,Illinois,2,,0,0.0,2020-03-14 12:04 EDT
+Montgomery,Pennsylvania,18,,0,0.0,2020-03-14 12:04 EDT
+Delaware,Pennsylvania,6,,0,0.0,2020-03-14 12:04 EDT
+Monroe,Pennsylvania,3,,0,0.0,2020-03-14 12:04 EDT
+Philadelphia,Pennsylvania,3,,0,0.0,2020-03-14 12:04 EDT
+Bucks,Pennsylvania,3,,0,0.0,2020-03-14 12:04 EDT
+Cumberland,Pennsylvania,3,,0,0.0,2020-03-14 12:04 EDT
+Wayne,Pennsylvania,1,,0,0.0,2020-03-14 12:04 EDT
+Northampton,Pennsylvania,1,,0,0.0,2020-03-14 12:04 EDT
+Pike,Pennsylvania,1,,0,0.0,2020-03-14 12:04 EDT
+Chester,Pennsylvania,1,,0,0.0,2020-03-14 12:04 EDT
+Washington,Pennsylvania,1,,0,0.0,2020-03-14 12:04 EDT
+Washington,Oregon,10,,0,0.0,2020-03-14 12:04 EDT
+Linn,Oregon,8,,0,0.0,2020-03-14 12:04 EDT
+Deschutes,Oregon,3,,0,0.0,2020-03-14 12:04 EDT
+Jackson,Oregon,2,,0,0.0,2020-03-14 12:04 EDT
+Umatilla,Oregon,2,,0,0.0,2020-03-14 12:04 EDT
+Marion,Oregon,2,,0,0.0,2020-03-14 12:04 EDT
+Klamath,Oregon,1,,0,0.0,2020-03-14 12:04 EDT
+Douglas,Oregon,1,,0,0.0,2020-03-14 12:04 EDT
+Multnomah,Oregon,1,,0,0.0,2020-03-14 12:04 EDT
+Polk,Oregon,1,,0,0.0,2020-03-14 12:04 EDT
+Clackamas,Oregon,1,,0,0.0,2020-03-14 12:04 EDT
+James City,Virginia,7,,0,0.0,2020-03-14 12:04 EDT
+Fairfax,Virginia,6,,0,0.0,2020-03-14 12:04 EDT
+Arlington,Virginia,5,,0,0.0,2020-03-14 12:04 EDT
+Loudoun,Virginia,3,,0,0.0,2020-03-14 12:04 EDT
+Virginia Beach City,Virginia,2,,0,0.0,2020-03-14 12:04 EDT
+Prince William,Virginia,2,,0,0.0,2020-03-14 12:04 EDT
+Spotsylvania,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Hanover,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Prince Edward,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Alexandria City,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Harrisonburg,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Chesterfield,Virginia,1,,0,0.0,2020-03-14 12:04 EDT
+Davidson,Tennessee,13,,0,0.0,2020-03-14 12:04 EDT
+Williamson,Tennessee,9,,0,0.0,2020-03-14 12:04 EDT
+Shelby,Tennessee,2,,0,0.0,2020-03-14 12:04 EDT
+Sullivan,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Knox,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Hamilton,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Jefferson,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Rutherford,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Campbell,Tennessee,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Maryland,9,,0,0.0,2020-03-14 12:04 EDT
+Prince George's,Maryland,7,,0,0.0,2020-03-14 12:04 EDT
+Montgomery,Maryland,6,,0,0.0,2020-03-14 12:04 EDT
+Baltimore,Maryland,2,,0,0.0,2020-03-14 12:04 EDT
+Harford,Maryland,1,,0,0.0,2020-03-14 12:04 EDT
+Charles,Maryland,1,,0,0.0,2020-03-14 12:04 EDT
+Anne Arundel,Maryland,1,,0,0.0,2020-03-14 12:04 EDT
+Carroll,Maryland,1,,0,0.0,2020-03-14 12:04 EDT
+Oakland,Michigan,6,,0,0.0,2020-03-14 12:04 EDT
+Wayne,Michigan,6,,0,0.0,2020-03-14 12:04 EDT
+Kent,Michigan,3,,0,0.0,2020-03-14 12:04 EDT
+Washtenaw,Michigan,3,,0,0.0,2020-03-14 12:04 EDT
+St. Clair,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Ingham,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Montcalm,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Bay,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Charlevoix,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Macomb,Michigan,1,,0,0.0,2020-03-14 12:04 EDT
+Wake,North Carolina,9,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,North Carolina,3,,0,0.0,2020-03-14 12:04 EDT
+Forsyth,North Carolina,2,,0,0.0,2020-03-14 12:04 EDT
+Chatham,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Durham,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Johnston,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Mecklenburg,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Cabarrus,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Onslow,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Wayne,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Harnett,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Brunswick,North Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Clark,Nevada,16,,0,0.0,2020-03-14 12:04 EDT
+Washoe,Nevada,3,,0,0.0,2020-03-14 12:04 EDT
+Ormsby,Nevada,1,,0,0.0,2020-03-14 12:04 EDT
+Fond du Lac,Wisconsin,6,,0,0.0,2020-03-14 12:04 EDT
+Dane,Wisconsin,5,,0,0.0,2020-03-14 12:04 EDT
+Sheboygan,Wisconsin,3,,0,0.0,2020-03-14 12:04 EDT
+Milwaukee,Wisconsin,2,,0,0.0,2020-03-14 12:04 EDT
+Pierce,Wisconsin,1,,0,0.0,2020-03-14 12:04 EDT
+Waukesha,Wisconsin,1,,0,0.0,2020-03-14 12:04 EDT
+Racine,Wisconsin,1,,0,0.0,2020-03-14 12:04 EDT
+Johnson,Iowa,14,,0,0.0,2020-03-14 12:04 EDT
+Pottawattamie,Iowa,1,,0,0.0,2020-03-14 12:04 EDT
+Carroll,Iowa,1,,0,0.0,2020-03-14 12:04 EDT
+Harrison,Iowa,1,,0,0.0,2020-03-14 12:04 EDT
+Marion,Indiana,3,,0,0.0,2020-03-14 12:04 EDT
+Johnson,Indiana,3,,0,0.0,2020-03-14 12:04 EDT
+Hendricks,Indiana,2,,0,0.0,2020-03-14 12:04 EDT
+Noble,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Adams,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Boone,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Howard,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+St. Joseph,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Hancock,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Wells,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+LaPorte,Indiana,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Rhode Island,9,,0,0.0,2020-03-14 12:04 EDT
+Providence,Rhode Island,3,,0,0.0,2020-03-14 12:04 EDT
+RI,Rhode Island,2,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Minnesota,4,,0,0.0,2020-03-14 12:04 EDT
+Ramsey,Minnesota,3,,0,0.0,2020-03-14 12:04 EDT
+Carver,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Anoka,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Olmsted,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Dakota,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Stearns,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Hennepin,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Wright,Minnesota,1,,0,0.0,2020-03-14 12:04 EDT
+Harrison,Kentucky,5,,0,0.0,2020-03-14 12:04 EDT
+Fayette,Kentucky,3,,0,0.0,2020-03-14 12:04 EDT
+Jefferson,Kentucky,2,,0,0.0,2020-03-14 12:04 EDT
+Montgomery,Kentucky,2,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Kentucky,2,,0,0.0,2020-03-14 12:04 EDT
+Douglas,Nebraska,12,,0,0.0,2020-03-14 12:04 EDT
+Knox,Nebraska,1,,0,0.0,2020-03-14 12:04 EDT
+Cass,Nebraska,1,,0,0.0,2020-03-14 12:04 EDT
+Cuyahoga,Ohio,6,,0,0.0,2020-03-14 12:04 EDT
+Stark,Ohio,2,,0,0.0,2020-03-14 12:04 EDT
+Belmont,Ohio,2,,0,0.0,2020-03-14 12:04 EDT
+Trumbull,Ohio,1,,0,0.0,2020-03-14 12:04 EDT
+Bulter,Ohio,1,,0,0.0,2020-03-14 12:04 EDT
+Summit,Ohio,1,,0,0.0,2020-03-14 12:04 EDT
+Franklin,Ohio,1,,0,0.0,2020-03-14 12:04 EDT
+Kershaw,South Carolina,5,,0,0.0,2020-03-14 12:04 EDT
+Camden,South Carolina,4,,0,0.0,2020-03-14 12:04 EDT
+Charleston,South Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Spartanburg,South Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Lancaster,South Carolina,1,,0,0.0,2020-03-14 12:04 EDT
+Fairfield,Connecticut,8,,0,0.0,2020-03-14 12:04 EDT
+Litchfield,Connecticut,3,,0,0.0,2020-03-14 12:04 EDT
+Hartford,Connecticut,1,,0,0.0,2020-03-14 12:04 EDT
+Pinal,Arizona,5,,0,0.0,2020-03-14 12:04 EDT
+Maricopa,Arizona,3,,0,0.0,2020-03-14 12:04 EDT
+Pima,Arizona,2,,0,0.0,2020-03-14 12:04 EDT
+Graham,Arizona,1,,0,0.0,2020-03-14 12:04 EDT
+Washington,District of Columbia,10,,0,0.0,2020-03-14 12:04 EDT
+Bernalillo,New Mexico,5,,0,0.0,2020-03-14 12:04 EDT
+Santa Fe,New Mexico,3,,0,0.0,2020-03-14 12:04 EDT
+Socorro,New Mexico,2,,0,0.0,2020-03-14 12:04 EDT
+Summit,Utah,4,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Utah,2,,0,0.0,2020-03-14 12:04 EDT
+Davis,Utah,1,,0,0.0,2020-03-14 12:04 EDT
+Weber,Utah,1,,0,0.0,2020-03-14 12:04 EDT
+Salt Lake,Utah,1,,0,0.0,2020-03-14 12:04 EDT
+Minnehaha,South Dakota,3,,0,0.0,2020-03-14 12:04 EDT
+Pennington,South Dakota,1,,1,1.0,2020-03-14 12:04 EDT
+Beadle,South Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+Charles Mix,South Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+Davidson,South Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+Bon Homme,South Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+McCook,South Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Arkansas,9,,0,0.0,2020-03-14 12:04 EDT
+Rockingham,New Hampshire,4,,0,0.0,2020-03-14 12:04 EDT
+Grafton,New Hampshire,3,,0,0.0,2020-03-14 12:04 EDT
+Johnson,Kansas,4,,0,0.0,2020-03-14 12:04 EDT
+Wyandotte,Kansas,1,,1,1.0,2020-03-14 12:04 EDT
+Sedgwick,Kansas,1,,0,0.0,2020-03-14 12:04 EDT
+Forrest,Mississippi,3,,0,0.0,2020-03-14 12:04 EDT
+Leflore,Mississippi,1,,0,0.0,2020-03-14 12:04 EDT
+Pearl River,Mississippi,1,,0,0.0,2020-03-14 12:04 EDT
+Copiah,Mississippi,1,,0,0.0,2020-03-14 12:04 EDT
+Montgomery,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Jefferson,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Elmore,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Tuscaloosa,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Limestone,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Alabama,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Montana,1,,0,0.0,2020-03-14 12:04 EDT
+Gallatin,Montana,1,,0,0.0,2020-03-14 12:04 EDT
+Yellowstone,Montana,1,,0,0.0,2020-03-14 12:04 EDT
+Silver Bow,Montana,1,,0,0.0,2020-03-14 12:04 EDT
+Lewis and Clark,Montana,1,,0,0.0,2020-03-14 12:04 EDT
+Tulsa,Oklahoma,2,,0,0.0,2020-03-14 12:04 EDT
+Jackson,Oklahoma,1,,0,0.0,2020-03-14 12:04 EDT
+Oklahoma,Oklahoma,1,,0,0.0,2020-03-14 12:04 EDT
+St. Louis,Missouri,2,,0,0.0,2020-03-14 12:04 EDT
+Greene,Missouri,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Missouri,1,,0,0.0,2020-03-14 12:04 EDT
+New Castle,Delaware,4,,0,0.0,2020-03-14 12:04 EDT
+Honolulu,Hawaii,2,,0,0.0,2020-03-14 12:04 EDT
+Kauai County,Hawaii,1,,0,0.0,2020-03-14 12:04 EDT
+Unassigned,Maine,2,,0,0.0,2020-03-14 12:04 EDT
+Androscoggin,Maine,1,,0,0.0,2020-03-14 12:04 EDT
+Puerto Rico,Puerto Rico,3,,0,0.0,2020-03-14 12:04 EDT
+Bennington,Vermont,1,,0,0.0,2020-03-14 12:04 EDT
+Chittenden,Vermont,1,,0,0.0,2020-03-14 12:04 EDT
+Sheridan County,Wyoming,1,,0,0.0,2020-03-14 12:04 EDT
+Fremont,Wyoming,1,,0,0.0,2020-03-14 12:04 EDT
+Ward,North Dakota,1,,0,0.0,2020-03-14 12:04 EDT
+Anchorage,Alaska,1,,0,0.0,2020-03-14 12:04 EDT
+Ada,Idaho,1,,0,0.0,2020-03-14 12:04 EDT
