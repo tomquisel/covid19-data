@@ -46,9 +46,9 @@ def read_dfs_in_folder(folder):
 
 def do_basic_fixups(dfs):
     for df in dfs.values():
-        # fix some county name changes
+        # fix some county names that change over time
         df["County_Name"] = df["County_Name"].map(
-            {"Kauai County": "Kauai", "Maui County": "Maui"}
+            lambda c: {"Kauai County": "Kauai", "Maui County": "Maui"}.get(c, c)
         )
         # There shouldn't be any duplicates, this is just a safeguard
         df.drop_duplicates(["County_Name", "State_Name"], inplace=True)
@@ -74,8 +74,13 @@ def improve_lat_lons(dfs):
     """Early lat/lon values were flawed. Use the most recent values in all dfs"""
     newest_df = dfs[max(dfs.keys())]
     for df in dfs.values():
-        df["Latitude"] = newest_df["Latitude"]
-        df["Longitude"] = newest_df["Longitude"]
+        fill_df = newest_df.reindex(df.index)
+        if "Latitude" in df.columns:
+            fill_df["Latitude"].fillna(df["Latitude"], inplace=True)
+        if "Longitude" in df.columns:
+            fill_df["Longitude"].fillna(df["Latitude"], inplace=True)
+        df["Latitude"] = fill_df["Latitude"]
+        df["Longitude"] = fill_df["Longitude"]
 
 
 def fixup_new_column(dfs):
