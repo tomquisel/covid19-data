@@ -15,3 +15,7 @@ This folder contains daily US county COVID-19 data pulled from [CSBS.org's inter
 | Latitude | Latitude of the county's centroid |
 | Longitude | Longitude of the county's centroid |
 | Last_Update | Time the row was last updated |
+
+## Caveats
+
+* There are a few catch-all non-county rows in some states. Examples include `Unassigned, Montana`, `Unknown, Idaho`, `Outside-Florida, Florida`, `Non-Utah resident, Utah`.
