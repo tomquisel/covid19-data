@@ -48,7 +48,11 @@ def do_basic_fixups(dfs):
     for df in dfs.values():
         # fix some county names that change over time
         df["County_Name"] = df["County_Name"].map(
-            lambda c: {"Kauai County": "Kauai", "Maui County": "Maui"}.get(c, c)
+            lambda c: {
+                "Kauai County": "Kauai",
+                "Maui County": "Maui",
+                "Sheridan County": "Sheridan",
+            }.get(c, c)
         )
         # There shouldn't be any duplicates, this is just a safeguard
         df.drop_duplicates(["County_Name", "State_Name"], inplace=True)
@@ -78,7 +82,7 @@ def improve_lat_lons(dfs):
         if "Latitude" in df.columns:
             fill_df["Latitude"].fillna(df["Latitude"], inplace=True)
         if "Longitude" in df.columns:
-            fill_df["Longitude"].fillna(df["Latitude"], inplace=True)
+            fill_df["Longitude"].fillna(df["Longitude"], inplace=True)
         df["Latitude"] = fill_df["Latitude"]
         df["Longitude"] = fill_df["Longitude"]
 
