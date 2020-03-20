@@ -47,7 +47,7 @@ def read_dfs_in_folder(folder):
 def do_basic_fixups(dfs):
     for df in dfs.values():
         # fix some county names that change over time
-        df["County_Name"] = df["County_Name"].map(
+        df.County_Name = df.County_Name.map(
             lambda c: {
                 "Kauai County": "Kauai",
                 "Maui County": "Maui",
@@ -58,14 +58,11 @@ def do_basic_fixups(dfs):
         df.drop_duplicates(["County_Name", "State_Name"], inplace=True)
         # Deaths are sometimes reported with a string like "2+1".
         # Simplify to a single number (3)
-        df["Death"] = (
-            df["Death"]
-            .astype(str)
-            .str.split("+")
-            .map(lambda l: sum([int(s) for s in l]))
+        df.Death = (
+            df.Death.astype(str).str.split("+").map(lambda l: sum([int(s) for s in l]))
         )
         # Recalculate fatality rate as a proper rate [0-1]
-        df["Fatality_Rate"] = (df["Death"] / df["Confirmed"]).clip(0, 1)
+        df.Fatality_Rate = (df.Death / df.Confirmed).clip(0, 1)
 
 
 def index_by_county(dfs):
@@ -80,11 +77,11 @@ def improve_lat_lons(dfs):
     for df in dfs.values():
         fill_df = newest_df.reindex(df.index)
         if "Latitude" in df.columns:
-            fill_df["Latitude"].fillna(df["Latitude"], inplace=True)
+            fill_df.Latitude.fillna(df.Latitude, inplace=True)
         if "Longitude" in df.columns:
-            fill_df["Longitude"].fillna(df["Longitude"], inplace=True)
-        df["Latitude"] = fill_df["Latitude"]
-        df["Longitude"] = fill_df["Longitude"]
+            fill_df.Longitude.fillna(df.Longitude, inplace=True)
+        df.Latitude = fill_df.Latitude
+        df.Longitude = fill_df.Longitude
 
 
 def fixup_new_column(dfs):
@@ -96,7 +93,7 @@ def fixup_new_column(dfs):
         else:
             fixed_df = df.copy()
             # If there was no data yesterday, "New" cases isn't meaningful
-            fixed_df["New"] = None
+            fixed_df.New = None
         dfs[date] = fixed_df
 
 
@@ -105,9 +102,9 @@ def make_df_consistent_with_yesterday(df, df_y):
     df = df.copy()
     df_y = df_y.copy()
     df_y.reindex(df.index)
-    df["New"] = df["Confirmed"] - df_y["Confirmed"]
-    df.loc[df["New"].isnull(), "New"] = df["Confirmed"]
-    df["New"] = df["New"].astype(int)
+    df.New = df.Confirmed - df_y.Confirmed
+    df.loc[df.New.isnull(), "New"] = df.Confirmed
+    df.New = df.New.astype(int)
     return df
 
 
@@ -115,7 +112,7 @@ def write_csvs(folder, dfs):
     for date, df in dfs.items():
         filename = os.path.join(folder, date.isoformat() + ".csv")
         df.to_csv(filename, float_format="%.7f")
-        print("Fixed up", filename)
+        print(f"Fixed up {filename} : {df.Confirmed.sum()} cases")
 
 
 if __name__ == "__main__":
