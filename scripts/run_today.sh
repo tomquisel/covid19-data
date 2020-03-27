@@ -9,3 +9,4 @@ curl $URL -o data/raw_scraped/$DATE.csv
 cat data/raw_scraped/$DATE.csv | python3 scripts/csbs_csv_clean.py > data/csv/$DATE.csv
 echo "CSV for $DATE written to data/csv/$DATE.csv"
 python3 scripts/fixup_data_folder.py data/csv
+python3 scripts/daily_to_timeseries.py data/csv
