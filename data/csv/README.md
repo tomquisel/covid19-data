@@ -2,6 +2,8 @@
 
 This folder contains daily US county COVID-19 data pulled from [CSBS.org's interactive map](https://www.csbs.org/information-covid-19-coronavirus).
 
+In addition `timeseries_confirmed.csv` and `timeseries_death.csv` contain the daily csv data aggregated with one column per day.
+
 ## Fields
 
 | Name | Description |
