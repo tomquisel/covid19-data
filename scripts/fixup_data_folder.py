@@ -114,7 +114,6 @@ def write_csvs(folder, dfs):
         "Last_Update",
     ]
     for date, df in dfs.items():
-        print(date, df)
         assert sorted(df.columns) == sorted(
             columns
         ), f"Unexpected or missing columns: {set(df.columns) ^ set(columns)}"
