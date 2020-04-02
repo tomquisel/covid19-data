@@ -28,7 +28,7 @@ def clean_folder(folder):
     do_basic_fixups(dfs)
     index_by_county(dfs)
     improve_lat_lons(dfs)
-    fixup_new_column(dfs)
+    fixup_diff_columns(dfs)
 
     write_csvs(folder, dfs)
 
@@ -73,8 +73,8 @@ def improve_lat_lons(dfs):
         df.Longitude = fill_df.Longitude
 
 
-def fixup_new_column(dfs):
-    """Compute the "New" column from today's & yesterday's Confirmed values"""
+def fixup_diff_columns(dfs):
+    """Compute the diff columns from today's & yesterday's values"""
     for date, df in dfs.items():
         yesterday = date - dt.timedelta(days=1)
         if yesterday in dfs:
@@ -82,23 +82,43 @@ def fixup_new_column(dfs):
         else:
             fixed_df = df.copy()
             # If there was no data yesterday, "New" cases isn't meaningful
-            fixed_df.New = None
+            fixed_df["New"] = None
+            fixed_df["New_Death"] = None
         dfs[date] = fixed_df
 
 
-def make_df_consistent_with_yesterday(df, df_y):
-    """This fixes the New column so that today = yesterday + New"""
+def make_df_consistent_with_yesterday(
+    df, df_y, columns={"Confirmed": "New", "Death": "New_Death"}
+):
+    """This fixes the specified difference columns so that today = yesterday + New"""
     df = df.copy()
-    df_y = df_y.copy()
-    df_y.reindex(df.index)
-    df.New = df.Confirmed - df_y.Confirmed
-    df.loc[df.New.isnull(), "New"] = df.Confirmed
-    df.New = df.New.astype(int)
+    df_y = df_y.reindex(df.index)
+    for col, diff_col in columns.items():
+        df[diff_col] = df[col] - df_y[col]
+        # if a difference is missing, that's because it was 0 yesterday.
+        # Backfill with today's value
+        df[diff_col].fillna(df[col], inplace=True)
+        df[diff_col] = df[diff_col].astype(int)
     return df
 
 
 def write_csvs(folder, dfs):
+    columns = [
+        "Confirmed",
+        "New",
+        "Death",
+        "New_Death",
+        "Fatality_Rate",
+        "Latitude",
+        "Longitude",
+        "Last_Update",
+    ]
     for date, df in dfs.items():
+        print(date, df)
+        assert sorted(df.columns) == sorted(
+            columns
+        ), f"Unexpected or missing columns: {set(df.columns) ^ set(columns)}"
+        df = df[columns]
         filename = os.path.join(folder, date.isoformat() + ".csv")
         df.to_csv(filename, float_format="%.7f")
         print(f"Fixed up {filename} : {df.Confirmed.sum()} cases")
