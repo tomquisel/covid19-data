@@ -12,7 +12,8 @@ In addition `timeseries_confirmed.csv` and `timeseries_death.csv` contain the da
 | State_Name | State that the county is in |
 | Confirmed | Number of confirmed COVID-19 cases |
 | New | New cases since the previous day |
-| Deaths | Total deaths |
+| Death | Total deaths |
+| New_Death | New deaths since the previous day |
 | Fatality_Rate | Deaths divided by Confirmed (0-1)|
 | Latitude | Latitude of the county's centroid |
 | Longitude | Longitude of the county's centroid |
